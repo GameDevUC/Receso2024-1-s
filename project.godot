@@ -13,7 +13,3 @@ config_version=5
 config/name="Receso 2024-1-s-PONG"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
-
-[rendering]
-
-renderer/rendering_method="forward_plus"
